@@ -39,3 +39,13 @@ This is a overhaul of the core systems with a focus on scaled leveling and explo
 - [Buffs](./Documentation/Buffs.md)
 - [Weapons](./Documentation/Weapons.md)
 - [Armor](./Documentation/Armor.md)
+
+## Tools
+- VS Code
+    - Open Source editor from Microsoft
+    - [Get from Microsoft](https://code.visualstudio.com/download)
+
+# Markdown
+- GitHub's [Basic formatting and syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- GitHub's [Advanced Formatting, Tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+- Github's [Advanced Formatting, Task Lists](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
