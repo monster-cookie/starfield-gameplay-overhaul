@@ -55,7 +55,7 @@ None
 - Security
 - Fitness
 
-### Existing
+### Overhauled
 
 #### Description
 You've worked the line at the toughest clubs in the Settled Systems. Back then, you learned that most non-lethal confrontations can be solved one of two ways: a strong right hook, or a strong defense.
@@ -89,7 +89,7 @@ None
 - Targeting Control Systems
 - Boost Pack Training
 
-### Existing
+### Overhauled
 
 #### Description
 Wherever there are wanted individuals, there are those who profit from their capture. And your quarry knows that in the vastness of space, they can run... but they can't hide.
@@ -123,7 +123,7 @@ None
 - Dueling
 - Scavenging
 
-### Existing
+### Overhauled
 
 #### Description
 While the unrefined masses scarfed down Chunks by the shipload, you catered to those with a more... discerning palate. In your kitchen, countless alien species became true culinary masterpieces.
@@ -158,7 +158,7 @@ None
 - Medicine
 - Wellness
 
-### Existing
+### Overhauled
 
 #### Description
 Leave it to human beings to fight over something as infinite as outer space. That's where you come in. You've never been afraid to take on the enemy... but you'd much rather take care of your friends.
@@ -192,7 +192,7 @@ None
 - Security
 - Lasers
 
-### Existing
+### Overhauled
 
 #### Description
 Robots? Mere toys. Neuroamps? Good for parlor tricks. The Colony War may have made implants and upgrades available to veterans, but you once saw a greater future. Humans and machines, as one.
@@ -227,17 +227,17 @@ None
 - Security
 - Theft
 
-### Existing
+### Overhauled
 
 #### Description
 From Neon to New Atlantis, the megacorps stand as monuments to power, prestige and profit. You've worked both for and against them, on the inside and out, often sacrificing conscience for credits.
 
 #### Effects
-- Passive Effect: Once every few minutes you force unlock a nearby door or container (This could be game breaking need feedback)
+- Passive Effect: A prototype Ryujin manipulation implant that you stole is functional
 
 #### Traits 
-- Stealth
 - Security
+- Robotics
 - Theft
 
 </details>
@@ -261,7 +261,7 @@ None
 - Security
 - Theft
 
-### Existing
+### Overhauled
 
 #### Description
 From Neon to New Atlantis, the megacorps stand as monuments to power, prestige and profit. You've worked both for and against them, on the inside and out, often sacrificing conscience for credits.
@@ -295,7 +295,7 @@ None
 - Astrodynamics
 - Surveying
 
-### Existing
+### Overhauled
 
 #### Description
 They said exploration is a lost art. You didn't listen. As the major factions argued over the space they desperately tried to control, you were busy uncovering the wonders of the Settled Systems.
@@ -329,7 +329,7 @@ None
 - Boxing
 - Theft
 
-### Existing
+### Overhauled
 
 #### Description
 You were always disgusted by suckers killing themselves to make an "honest wage." As soon as you were old enough to hold a weapon, you took what you wanted from anyone unlucky enough to have it.
@@ -363,7 +363,7 @@ None
 - Boxing
 - Theft
 
-### Existing
+### Overhauled
 
 #### Description
 You were always disgusted by suckers killing themselves to make an "honest wage." As soon as you were old enough to hold a weapon, you took what you wanted from anyone unlucky enough to have it.
@@ -399,7 +399,7 @@ None
 - Ballistics
 - Piloting
 
-### Existing
+### Overhauled
 
 #### Description
 Whatever the reason, your past is known only to you and your clients. What's important is the here and now, and the path you're about to forge...
@@ -433,7 +433,7 @@ None
 - Surveying
 - Weight lifting
 
-### Existing
+### Overhauled
 
 #### Description
 The discovery of the Settled Systems' many oxygen-rich planets and moons meant humans could live just about anywhere... if they had the know how. You did, and utilized it to great effect.
@@ -467,7 +467,7 @@ None
 - Security
 - Research Methods
 
-### Existing
+### Overhauled
 
 #### Description
 There was a time when all you wanted to be was a titan of industry, maybe a ship designer, or megacorp exec. Thankfully, that skill set never goes out of style in the Settled Systems.
@@ -501,7 +501,7 @@ None
 - Piloting
 - Ballistic
 
-### Existing
+### Overhauled
 
 #### Description
 You're a space trucker, pure and simple. Pack the cargo, get it there fast, get paid, repeat. Life is simple and good.
@@ -535,7 +535,7 @@ None
 - Surveying
 - Gastronomy
 
-### Existing
+### Overhauled
 
 #### Description
 Wayfarer, wanderer, seeker... transient. You've been called many things during your travels, and learned something those others could never understand - the journey IS the destination.Wayfarer, wanderer, seeker... transient. You've been called many things during your travels, and learned something those others could never understand - the journey IS the destination.
@@ -569,7 +569,7 @@ None
 - Geology
 - Research Methods
 
-### Existing
+### Overhauled
 
 #### Description
 You always enjoyed learning, but nothing could compare to the joy of teaching others. As humankind spread throughout the stars, there was never a lack of knowledge to obtain, and you gladly assisted.
@@ -603,7 +603,7 @@ None
 - Stealth
 - Scavenging
 
-### Existing
+### Overhauled
 
 #### Description
 Masterless and unbound, you wandered the Settled Systems as a blade for hire. To some, you were a simple mercenary. To others, a hero. And to a select few... a nightmare they could never wake from.
@@ -637,7 +637,7 @@ None
 - Geology
 - Persuasion
 
-### Existing
+### Overhauled
 
 #### Description
 With your knowledge of anatomy and skilled, steady hands, you could have had a lucrative career as a surgeon. Instead, you followed your heart, and created works of art to amaze and inspire.
@@ -671,7 +671,7 @@ None
 - Ballistics
 - Boost Pack Training
 
-### Existing
+### Overhauled
 
 #### Description
 The Settled Systems is no stranger to warfare, and if there's one thing armed conflict relies on it's trained warriors with guns and guts. You had both. Simple, bloody work... and you were great at it.
@@ -707,7 +707,7 @@ None
 - Piloting
 - Persuasion
 
-### Existing
+### Overhauled
 
 #### Description
 Good? Bad? Whose right is it to say? If there's anything you've learned while traipsing through the galaxy, it's this: space may look black, but it's really one big shade of grey.
@@ -719,6 +719,97 @@ Good? Bad? Whose right is it to say? If there's anything you've learned while tr
 - Pistol Certification 
 - Deception
 - Targeting Control Systems
+
+</details>
+
+-------------------------------------------------------------------------------
+
+<details>
+
+<summary>Xenobiologist [PERK:0022EC6E]</summary>
+
+### Existing
+
+#### Description
+The Settled Systems is home to untold alien species. And while none of them have yet proven sentient, that never deterred you. So you sought out and studied them for whatever gifts they offered.
+
+#### Effects
+None 
+
+#### Traits 
+- Lasers
+- Survey
+- Fitness
+
+### Overhauled
+
+#### Description
+The Settled Systems is home to untold alien species. And while none of them have yet proven sentient, that never deterred you. So you sought out and studied them for whatever gifts they offered.
+
+#### Effects
+- Passive Effect: 15% increase aid items buffs magnitude and duration
+
+#### Traits 
+- Zoology
+- Botany
+- Chemistry
+
+</details>
+
+-------------------------------------------------------------------------------
+
+<details>
+
+<summary>Master Thief [NEW]</summary>
+
+#### Description
+Other peoples precious items are the oysters you thrive to find and claim.
+
+#### Effects
+- Passive Effect: Once every few minutes you force unlock a nearby door or container (This could be game breaking need feedback)
+
+#### Traits 
+- Stealth
+- Concealment
+- Theft
+
+</details>
+
+-------------------------------------------------------------------------------
+
+<details>
+
+<summary>Nerf Herder [NEW]</summary>
+
+#### Description
+Some people are just not cut out for normal life in the settled systems, you choose to roam the galaxy herding the nerfs. 
+
+#### Effects
+- Passive Effect: Random chance on hit, summon a local creature (max 2) to aid you for 10 seconds
+
+#### Traits 
+- Zoology
+- Engine Systems
+- Deception
+
+</details>
+
+-------------------------------------------------------------------------------
+
+<details>
+
+<summary>Lone Hero [NEW]</summary>
+
+#### Description
+Lone engineer that hides from civilization and hunts wrong doers using self designed weapons and suits. 
+
+#### Effects
+- Passive Effect: Bonus critical chance and damage
+
+#### Traits 
+- Isolation
+- Weapon Engineering
+- Space Suit Engineering
 
 </details>
 
